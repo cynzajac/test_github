@@ -1,0 +1,18 @@
+git_pull.txt
+Here are the instructions on how to do a git pull
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/cynzajac/test_github.git
+
+git push -u origin master ##  * [new branch]      master -> master
+
+git branch testing
+
+git branch  ## should be on master
+
+git checkout testing ## switching to testing 
+
+
